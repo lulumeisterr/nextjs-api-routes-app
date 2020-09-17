@@ -2,7 +2,7 @@
 # Descricao
     
     Criado 3 componentes
-        1 - Criamos um header
+        1 - Criamos um header e aplicamos uma camada de css
         
         2 - recuperamos a listagem do endpoint localhost:3000/api/people e 
         utilizamos a getInitialProps como um construtor ja setado para carregar os dados
