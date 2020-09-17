@@ -1,5 +1,5 @@
 
-# Descricao
+# Descrição
     
     Criado 3 componentes
         1 - Criamos um header e aplicamos uma camada de css
@@ -15,7 +15,8 @@
                   
         3 - Adicionamos um footer(Ja criado) apartir https://mdbootstrap.com/docs/react/navigation/footer/
         
-# Install
+# Instalaçao
+
     npm install na raiz do projeto
  
 # Pagina adicionada
