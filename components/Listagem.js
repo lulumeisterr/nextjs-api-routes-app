@@ -10,19 +10,19 @@ const Listagem = ({name}) => (
     
     <div>       
         {style}
-    {   name.map(p => (
             <Table celled>
             <Table.Header>
                 <Table.Row>
                     <Table.HeaderCell>Nome</Table.HeaderCell>
                 </Table.Row>
             </Table.Header>
-
+            {   name.map(p => (
             <Table.Body>
                 <Table.Cell>{p.name}</Table.Cell>
             </Table.Body>
+             ))}
            </Table>
-          ))}
+         
     
         </div>
     )   
