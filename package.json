@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@bit/semantic-org.semantic-ui-react.table": "^0.88.2",
+    "@zeit/next-css": "^1.0.1",
     "axios": "^0.20.0",
     "mdbreact": "^4.27.0",
     "next": "latest",

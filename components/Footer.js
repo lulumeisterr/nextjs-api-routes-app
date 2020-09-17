@@ -1,6 +1,7 @@
 import React from "react";
 import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
 
+
 /**
  * https://mdbootstrap.com/docs/react/navigation/footer/
  */
