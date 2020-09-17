@@ -15,7 +15,7 @@
                   
         3 - Adicionamos um footer(Ja criado) apartir https://mdbootstrap.com/docs/react/navigation/footer/
         
-# Instalaçao
+# Instalação
 
     npm install na raiz do projeto
  
